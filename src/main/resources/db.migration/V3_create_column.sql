@@ -1,0 +1,1 @@
+alter table paciente add column endereco varchar(50);
